@@ -1,0 +1,34 @@
+-Matemática
+> Um Curso de álgebra Linear; Flávio Ulhoa Coelho; 0; 6
+> Cálculo: Volume 2; Maurice D. Weir; 1; 6
+> Álgebra Linear com Python; Rafael F.V.C. Santos; 2; 6
+> Introdução à Lógica Matemática; nome; 3; 5
+> Introdução à lógica - 2ª edição; Cezar A. Mortari; 4; 5
+> Equações Algébricas; S.B. Kizlik; 5; 5
+> Métodos de Cálculo; Timothy Ford; 6; 5
+-Programação
+> Padrões de Projetos; Erich Gamma; 7; 3
+> O Programador Apaixonado; Chad Fowler; 8; 2
+> Algoritmos e estruturas de dados; Guimarães e Lajes; 9; 2
+> Código Limpo; Robert C. Martin; 10; 2
+> Expressões Regulares: Uma abordagem divertida; Aurelio Marinho Jargas; 11; 3
+> Java®: Como programar; Paul Deitel e Harvey Deitel; 12; 5
+> Desenvolvendo Websites com PHP; Juliano Niederauer; 13; 3
+> Introdução à programação com Python; Nilo Ney Coutinho Menezes; 14; 2
+-História
+> Brasil, uma história; Eduardo Bueno; 15; 6
+> 1808: Edição Junvenil Ilustrada; Laurentino Gomes; 16; 5
+> Brasil: uma biografia; Lilia Moritz Schwarcz; 17; 6
+> Sobre o autoritarismo Brasileiro; Lilia Moritz Schwarcz; 18; 4
+-Física
+> Curso de Física Básica: Eletromagnetismo; H. Moysés Nussenzveig; 19; 7
+> Comandos Eletrônicos: Teoria; SENAI-SP; 20; 4
+> A estranha teoria da luz e da matéria; Richard P. Feynman; 21; 5
+> Física Clássica vol1: Cinemática; Caio Sérgio Calçada e José Luiz Sampaio; 22; 4
+> Física Clássica vol2: Dinâmica; Caio Sérgio Calçada e José Luiz Sampaio; 23; 4
+> Física Clássica vol3: Eletromagnetismo; Caio Sérgio Calçada e José Luiz Sampaio; 24; 4
+-Química
+> Química? Um curso universitário; Mahan Myers; 25; 8
+> Química? Introdução à química inorgânica, orgânica e físico-química; Andrew Burrows; 26; 7
+> Os elementos; Theodore Gray; 27; 6
+> Elementos químicos e seus compostos; Henrique E. Toma; 28; 4
